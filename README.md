@@ -30,7 +30,7 @@ CourseManagementSystem/
 │ └── test_auth.py
 │
 ├── sql/
-│ └── course_management.sql # MySQL schema and seed data
+│ └── -- User Table.ddl # MySQL schema and seed data
 │
 └── README.md # Project documentation
 ```
